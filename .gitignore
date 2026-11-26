@@ -1,0 +1,26 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# IDE e editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Testes e cobertura
+TestResults/
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store

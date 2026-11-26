@@ -12,7 +12,7 @@ Resolução organizada das **60 questões** de Programação Orientada a Objetos
 ## Estrutura
 
 ```text
-Atividade-de-Poo/
+Desafio-POO-60/
 ├── docs/original/
 │   └── DesafioFixacaoPOO.cs           # Arquivo original preservado
 ├── src/
